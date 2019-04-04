@@ -4,4 +4,6 @@ A BookMyShow-inspired seat-booking UI built with the Web Platform™ using vanil
 
 Zero-dependency — no frameworks/libraries used.
 
+Play with the [app](https://sagirk.github.io/book-my-seat/src/index.html).
+
 [MIT Licensed](./LICENSE).
